@@ -1,14 +1,14 @@
-## Hi there 👋  
+Hi there 👋  
+Welcome to my GitHub profile.
 
-Welcome to my GitHub profile!  
+🔭 I’m focused on developing intelligent AI agents and advancing generative AI research.
 
+🌱 Currently deepening my expertise in vision-language models, agentic systems, and scalable deep learning.
 
+🤝 Open to collaborations on impactful AI and machine learning projects with real-world applications.
 
-- 🔭 I’m currently working on building innovative AI Agents and exploring Generative AI.  
-- 🌱 I’m currently learning cutting-edge Vision-Language Models and diving deeper into Deep Learning.  
-- 👯 I’m looking to collaborate on impactful AI and Data Science projects.  
-- 🤔 I’m looking for help with innovative applications of AI in real-world scenarios.  
-- 💬 Ask me about AI, Data Science, or anything tech-related!  
-- 📫 How to reach me: [syedsami40525@gmail.com](mailto:syedsami40525@gmail.com)  
- 
-- ⚡ Fun fact: I’m fascinated by the intersection of AI and Physics—it’s where tech meets the universe!  
+💬 Feel free to connect if you're working on autonomous agents, multimodal AI, or applied ML systems.
+
+📫 Contact: syedsami40525@gmail.com
+
+⚡ Curiosity drives me — especially where AI intersects with physics, cognition, and complex systems.
